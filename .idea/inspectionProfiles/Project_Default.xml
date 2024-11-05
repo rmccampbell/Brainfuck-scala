@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HeadOrLastOption" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="simplificationTypesEnabled">
+        <array>
+          <option value="true" />
+          <option value="true" />
+          <option value="false" />
+          <option value="true" />
+        </array>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
